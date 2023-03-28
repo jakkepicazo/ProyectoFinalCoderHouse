@@ -1,0 +1,151 @@
+.logoNavBar {
+  height: 30%;
+  width: 30%;
+}
+
+.navbar {
+  background-color: #1e4175;
+}
+
+.navbar-brand {
+  margin-left: 5%;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
+
+.bienvenida {
+  margin-top: 5%;
+  text-align: center;
+}
+.bienvenida .colorLetra {
+  color: #1e4175;
+}
+.bienvenida .contenidoCol {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bienvenida .img1 {
+  height: 60%;
+  width: 30%;
+  border-radius: 3rem;
+}
+
+.carousel {
+  margin-top: 3%;
+  width: 50%;
+  height: 20%;
+}
+
+.contenedorCentrado {
+  background-color: #1e4175;
+  color: white;
+  padding: 1rem;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.img2 {
+  height: 60%;
+  width: 30%;
+}
+
+.div1 {
+  margin-left: 5%;
+  text-align: center;
+}
+
+.divCentrado {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 872px) {
+  .divCentrado {
+    display: none;
+  }
+}
+#acerca {
+  margin-top: 5%;
+  color: #1e4175;
+  margin-bottom: 5%;
+}
+
+footer {
+  background-color: #1e4175;
+}
+
+.imgMedicas {
+  width: 70%;
+  height: 70%;
+  border-radius: 5%;
+}
+
+.imgMedicas2 {
+  width: 60%;
+  height: 80%;
+  border-radius: 5%;
+}
+
+.text-centerC {
+  text-align: center;
+  color: #1e4175;
+  margin: 4%;
+}
+
+.letraAjustada {
+  color: #1e4175;
+  font-size: small;
+  text-align: left;
+  margin: 5%;
+}
+
+.divCentrado1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.margindCardsM {
+  margin: 1%;
+}
+
+.bg-bodyM {
+  background: rgb(131, 131, 131);
+  background: linear-gradient(0deg, rgba(131, 131, 131, 0.1881127451) 0%, rgb(74, 88, 110) 47%, rgb(30, 65, 117) 100%);
+}
+
+.sombraLetras {
+  text-shadow: grey 0.1em 0.1em 0.2em;
+}
+
+.card {
+  height: 80%;
+  width: 80%;
+}
+
+.cardIbo {
+  height: 70%;
+}
+
+.card60 {
+  height: 60%;
+}
+
+.colContent .card:hover {
+  transform: translateY(-15px);
+  box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
+
+.marginVac {
+  margin: 2%;
+}
+
+/*# sourceMappingURL=styles.css.map */

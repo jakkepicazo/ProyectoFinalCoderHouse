@@ -1,0 +1,25 @@
+//medicamentos
+.margindCardsM{
+    margin: 1%;
+}
+.bg-bodyM{
+    background: rgb(131,131,131);
+background: linear-gradient(0deg, rgba(131,131,131,0.1881127450980392) 0%, rgba(74,88,110,1) 47%, rgba(30,65,117,1) 100%);
+}
+.sombraLetras{
+    text-shadow: grey 0.1em 0.1em 0.2em ;
+}
+.card{
+    height: 80%;
+    width: 80%;
+}
+.cardIbo{
+    height: 70%;
+}
+.card60{
+    height: 60%;
+}
+.colContent .card:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(0,0,0,0.2);
+}

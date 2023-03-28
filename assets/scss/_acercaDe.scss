@@ -1,0 +1,28 @@
+//acerca de
+.img2{
+    height: 60%;
+    width: 30%;
+}
+.div1{
+    margin-left: 5%;
+    text-align: center;
+}
+.divCentrado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width: 872px) {
+    .divCentrado{
+        display: none;
+    }
+}
+#acerca{
+    margin-top: 5%;
+    color: $colorAzul;
+    margin-bottom: 5%;
+}
+
+footer{
+    background-color: $colorAzul;
+}

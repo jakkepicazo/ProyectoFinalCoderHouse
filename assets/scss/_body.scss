@@ -1,0 +1,21 @@
+//boddy
+.bienvenida{
+    margin-top: 5%;
+    text-align: center;
+
+    .colorLetra{
+        color: $colorAzul;
+    }
+
+    .contenidoCol{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .img1{
+        height: 60%;
+        width: 30%;
+        border-radius: 3rem;
+    }
+}

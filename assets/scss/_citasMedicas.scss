@@ -1,0 +1,30 @@
+//Citas medicas
+
+.imgMedicas{
+    width: 70%;
+    height: 70%;
+    border-radius: 5%;
+}
+.imgMedicas2{
+    width: 60%;
+    height: 80%;
+    border-radius: 5%;
+}
+
+.text-centerC{
+    text-align: center;
+    color: $colorAzul;
+    margin: 4%;
+}
+
+.letraAjustada{
+    color: $colorAzul;
+    font-size: small;
+    text-align: left;
+    margin: 5%;
+}
+.divCentrado1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
